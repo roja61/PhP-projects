@@ -1,6 +1,6 @@
 # PhP-projects
 
-This is a sample To Demonstrate my work experience with PhP-projects
+There are 2 sample Projects to  Demonstrate my work experience with PhP-projects
 
 
 #Technologies Used
